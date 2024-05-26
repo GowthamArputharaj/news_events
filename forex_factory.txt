@@ -1,30 +1,30 @@
 undefined
-Mon Jun 3_13:45_
+2024-06-3_13:45_
 14:00__ISM Manufacturing PMI
-Tue Jun 4_14:00_
-Wed Jun 5_1:30_
+2024-06-4_14:00_
+2024-06-5_1:30_
 6:30__CPI m/m
 12:15__ADP Non-Farm Employment Change
 13:45__BOC Rate Statement
 __Overnight Rate
 14:00__ISM Services PMI
 14:30__BOC Press Conference
-Thu Jun 6_All Day_
+2024-06-6_All Day_
 12:15__Main Refinancing Rate
 __Monetary Policy Statement
 12:30__Unemployment Claims
 12:45__ECB Press Conference
-Fri Jun 7_All Day_
+2024-06-7_All Day_
 12:30__Employment Change
 __Unemployment Rate
 __Average Hourly Earnings m/m
 __Non-Farm Employment Change
 __Unemployment Rate
 Tentative__Treasury Currency Report
-Sat Jun 8_All Day_
-Sun Jun 9_All Day_
-Tue Jun 11_6:00_
-Wed Jun 12_6:00_
+Sat 2024-06-8_All Day_
+Sun 2024-06-9_All Day_
+2024-06-11_6:00_
+2024-06-12_6:00_
 12:30__Core CPI m/m
 __CPI m/m
 __CPI y/y
@@ -32,23 +32,23 @@ __CPI y/y
 __FOMC Economic Projections
 __FOMC Statement
 18:30__FOMC Press Conference
-Thu Jun 13_1:30_
+2024-06-13_1:30_
 __Unemployment Rate
 12:30__Core PPI m/m
 __PPI m/m
 __Unemployment Claims
-Fri Jun 14_Tentative_
+2024-06-14_Tentative_
 Tentative__Monetary Policy Statement
 Tentative__BOJ Press Conference
 14:00__Prelim UoM Consumer Sentiment
-Mon Jun 17_12:30_
-Tue Jun 18_4:30_
+2024-06-17_12:30_
+2024-06-18_4:30_
 __RBA Rate Statement
 12:30__Core Retail Sales m/m
 __Retail Sales m/m
-Wed Jun 19_6:00_
+2024-06-19_6:00_
 22:45__GDP q/q
-Thu Jun 20_7:15_
+2024-06-20_7:15_
 __French Flash Services PMI
 7:30__SNB Monetary Policy Assessment
 __SNB Policy Rate
@@ -61,90 +61,90 @@ __Flash Services PMI
 __MPC Official Bank Rate Votes
 __Official Bank Rate
 12:30__Unemployment Claims
-Fri Jun 21_6:00_
+2024-06-21_6:00_
 13:45__Flash Manufacturing PMI
 __Flash Services PMI
-Tue Jun 25_12:30_
+2024-06-25_12:30_
 __Median CPI y/y
 __Trimmed CPI y/y
 14:00__CB Consumer Confidence
-Wed Jun 26_1:30_
-Thu Jun 27_12:30_
+2024-06-26_1:30_
+2024-06-27_12:30_
 __Unemployment Claims
 14:00__Pending Home Sales m/m
-Fri Jun 28_1:30_
+2024-06-28_1:30_
 12:30__GDP m/m
 __Core PCE Price Index m/m
 14:00__Revised UoM Consumer Sentiment
-Thu Jul 4_All Day_
+2024-07-4_All Day_
 12:30__Unemployment Claims
-Fri Jul 5_12:30_
+2024-07-5_12:30_
 __Unemployment Rate
 __Average Hourly Earnings m/m
 __Non-Farm Employment Change
 __Unemployment Rate
-Thu Jul 11_6:00_
+2024-07-11_6:00_
 12:30__Core CPI m/m
 __CPI m/m
 __CPI y/y
 __Unemployment Claims
-Fri Jul 12_12:30_
+2024-07-12_12:30_
 __PPI m/m
 14:00__Prelim UoM Consumer Sentiment
-Thu Jul 18_1:30_
+2024-07-18_1:30_
 __Unemployment Rate
 6:00__Claimant Count Change
 12:15__Main Refinancing Rate
 __Monetary Policy Statement
 12:30__Unemployment Claims
 12:45__ECB Press Conference
-Fri Jul 19_6:00_
-Wed Jul 24_13:45_
+2024-07-19_6:00_
+2024-07-24_13:45_
 __BOC Rate Statement
 __Overnight Rate
 __Flash Manufacturing PMI
 __Flash Services PMI
 14:30__BOC Press Conference
-Thu Jul 25_12:30_
+2024-07-25_12:30_
 __Unemployment Claims
-Fri Jul 26_12:30_
+2024-07-26_12:30_
 14:00__Revised UoM Consumer Sentiment
-Thu Aug 1_11:00_
+2024-08-1_11:00_
 __Monetary Policy Summary
 __MPC Official Bank Rate Votes
 __Official Bank Rate
 12:30__Unemployment Claims
 13:45__Final Manufacturing PMI
 14:00__ISM Manufacturing PMI
-Fri Aug 2_12:30_
+2024-08-2_12:30_
 __Non-Farm Employment Change
 __Unemployment Rate
-Mon Jun 3_13:45_
+2024-06-3_13:45_
 14:00__ISM Manufacturing PMI
-Tue Jun 4_14:00_
-Wed Jun 5_1:30_
+2024-06-4_14:00_
+2024-06-5_1:30_
 6:30__CPI m/m
 12:15__ADP Non-Farm Employment Change
 13:45__BOC Rate Statement
 __Overnight Rate
 14:00__ISM Services PMI
 14:30__BOC Press Conference
-Thu Jun 6_All Day_
+2024-06-6_All Day_
 12:15__Main Refinancing Rate
 __Monetary Policy Statement
 12:30__Unemployment Claims
 12:45__ECB Press Conference
-Fri Jun 7_All Day_
+2024-06-7_All Day_
 12:30__Employment Change
 __Unemployment Rate
 __Average Hourly Earnings m/m
 __Non-Farm Employment Change
 __Unemployment Rate
 Tentative__Treasury Currency Report
-Sat Jun 8_All Day_
-Sun Jun 9_All Day_
-Tue Jun 11_6:00_
-Wed Jun 12_6:00_
+Sat 2024-06-8_All Day_
+Sun 2024-06-9_All Day_
+2024-06-11_6:00_
+2024-06-12_6:00_
 12:30__Core CPI m/m
 __CPI m/m
 __CPI y/y
@@ -152,23 +152,23 @@ __CPI y/y
 __FOMC Economic Projections
 __FOMC Statement
 18:30__FOMC Press Conference
-Thu Jun 13_1:30_
+2024-06-13_1:30_
 __Unemployment Rate
 12:30__Core PPI m/m
 __PPI m/m
 __Unemployment Claims
-Fri Jun 14_Tentative_
+2024-06-14_Tentative_
 Tentative__Monetary Policy Statement
 Tentative__BOJ Press Conference
 14:00__Prelim UoM Consumer Sentiment
-Mon Jun 17_12:30_
-Tue Jun 18_4:30_
+2024-06-17_12:30_
+2024-06-18_4:30_
 __RBA Rate Statement
 12:30__Core Retail Sales m/m
 __Retail Sales m/m
-Wed Jun 19_6:00_
+2024-06-19_6:00_
 22:45__GDP q/q
-Thu Jun 20_7:15_
+2024-06-20_7:15_
 __French Flash Services PMI
 7:30__SNB Monetary Policy Assessment
 __SNB Policy Rate
@@ -181,61 +181,61 @@ __Flash Services PMI
 __MPC Official Bank Rate Votes
 __Official Bank Rate
 12:30__Unemployment Claims
-Fri Jun 21_6:00_
+2024-06-21_6:00_
 13:45__Flash Manufacturing PMI
 __Flash Services PMI
-Tue Jun 25_12:30_
+2024-06-25_12:30_
 __Median CPI y/y
 __Trimmed CPI y/y
 14:00__CB Consumer Confidence
-Wed Jun 26_1:30_
-Thu Jun 27_12:30_
+2024-06-26_1:30_
+2024-06-27_12:30_
 __Unemployment Claims
 14:00__Pending Home Sales m/m
-Fri Jun 28_1:30_
+2024-06-28_1:30_
 12:30__GDP m/m
 __Core PCE Price Index m/m
 14:00__Revised UoM Consumer Sentiment
-Thu Jul 4_All Day_
+2024-07-4_All Day_
 12:30__Unemployment Claims
-Fri Jul 5_12:30_
+2024-07-5_12:30_
 __Unemployment Rate
 __Average Hourly Earnings m/m
 __Non-Farm Employment Change
 __Unemployment Rate
-Thu Jul 11_6:00_
+2024-07-11_6:00_
 12:30__Core CPI m/m
 __CPI m/m
 __CPI y/y
 __Unemployment Claims
-Fri Jul 12_12:30_
+2024-07-12_12:30_
 __PPI m/m
 14:00__Prelim UoM Consumer Sentiment
-Thu Jul 18_1:30_
+2024-07-18_1:30_
 __Unemployment Rate
 6:00__Claimant Count Change
 12:15__Main Refinancing Rate
 __Monetary Policy Statement
 12:30__Unemployment Claims
 12:45__ECB Press Conference
-Fri Jul 19_6:00_
-Wed Jul 24_13:45_
+2024-07-19_6:00_
+2024-07-24_13:45_
 __BOC Rate Statement
 __Overnight Rate
 __Flash Manufacturing PMI
 __Flash Services PMI
 14:30__BOC Press Conference
-Thu Jul 25_12:30_
+2024-08-2024-07-25_12:30_
 __Unemployment Claims
-Fri Jul 26_12:30_
+2024-07-26_12:30_
 14:00__Revised UoM Consumer Sentiment
-Thu Aug 1_11:00_
+2024-08-2024-08-01_11:00_
 __Monetary Policy Summary
 __MPC Official Bank Rate Votes
 __Official Bank Rate
 12:30__Unemployment Claims
 13:45__Final Manufacturing PMI
 14:00__ISM Manufacturing PMI
-Fri Aug 2_12:30_
+2024-08-02_12:30_
 __Non-Farm Employment Change
 __Unemployment Rate
