@@ -1,10 +1,10 @@
-2024-05-27_00:05__JPY_BOJ Gov Ueda Speaks
-2024-05-28_14:00__USD_CB Consumer Confidence
-2024-05-29_01:30__AUD_CPI y/y
-2024-05-30_12:30__USD_Prelim GDP q/q
-2024-05-30_14:00__USD_Pending Home Sales m/m
-2024-05-31_01:30__CNY_Manufacturing PMI
-2024-05-31_12:30__CAD_GDP m/m
+2024-05-27_00:05_JPY_BOJ Gov Ueda Speaks
+2024-05-28_14:00_USD_CB Consumer Confidence
+2024-05-29_01:30_AUD_CPI y/y
+2024-05-30_12:30_USD_Prelim GDP q/q
+2024-05-30_14:00_USD_Pending Home Sales m/m
+2024-05-31_01:30_CNY_Manufacturing PMI
+2024-05-31_12:30_CAD_GDP m/m
 2024-06-3_13:45__
 2024-06-03_14:00__ISM Manufacturing PMI
 2024-06-04_14:00__
@@ -90,7 +90,7 @@
 2024-06-12_12:30__Core PPI m/m
 2024-06-14_14:00__Prelim UoM Consumer Sentiment
 2024-06-17_12:30__
-2024-06-18_04:30_RBA Rate Statement
+2024-06-18_04:30__RBA Rate Statement
 2024-06-18_12:30__Core Retail Sales m/m
 2024-06-19_06:00__
 2024-06-19_22:45__GDP q/q
