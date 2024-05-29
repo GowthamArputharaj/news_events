@@ -5,7 +5,7 @@
 2024-05-30_14:00_USD_Pending Home Sales m/m
 2024-05-31_01:30_CNY_Manufacturing PMI
 2024-05-31_12:30_CAD_GDP m/m
-2024-06-3_13:45__
+2024-06-03_13:45__
 2024-06-03_14:00__ISM Manufacturing PMI
 2024-06-04_14:00__
 2024-06-05_01:30__
@@ -71,7 +71,7 @@
 2024-06-03_13:45__
 2024-06-03_14:00__ISM Manufacturing PMI
 2024-06-04_14:00__
-2024-06-05_1:30__
+2024-06-05_01:30__
 2024-06-05_6:30__CPI m/m
 2024-06-05_12:15__ADP Non-Farm Employment Change
 2024-06-05_13:45__BOC Rate Statement
@@ -106,7 +106,7 @@
 2024-06-26_01:30__
 2024-06-27_12:30__Unemployment Claims
 2024-06-27_14:00__Pending Home Sales m/m
-2024-06-28_1:30__
+2024-06-28_01:30__
 2024-06-28_12:30__GDP m/m
 2024-06-28_14:00__Revised UoM Consumer Sentiment
 2024-07-04_12:30__Unemployment Claims
