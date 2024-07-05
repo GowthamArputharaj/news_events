@@ -1,12 +1,12 @@
 2024-07-01_14:30_USD_ISM Manufacturing PMI
-2024-07-02_09:00_USD_Core CPI Flash Estimate y/y
+2024-07-02_09:00_EUR_Core CPI Flash Estimate y/y, CPI Flash Estimate y/y
 2024-07-02_13:30_USD_Fed Chair Powell Speaks
 2024-07-02_14:00_USD_JOLTS Job Openings
 2024-07-03_12:15_USD_ADP Non-Farm Employment Change
 2024-07-03_12:30_USD_Unemployment Claims
 2024-07-03_14:00_USD_ISM Services PMI
 2024-07-03_18:00_USD_FOMC Meeting Minutes
-2024-07-04_06:30_USD_CPI m/m
+2024-07-04_06:30_CHF_CPI m/m
 2024-07-05_12:30_USD_Unemployment Rate, Non-Farm Employment Change, Unemployment Rate
 2024-07-09_14:00_USD_Fed Chair Powell Testifies
 2024-07-10_02:00_NZD_Official Cash Rate
