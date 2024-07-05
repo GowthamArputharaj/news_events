@@ -1,113 +1,20 @@
-2024-05-27_00:05_JPY_BOJ Gov Ueda Speaks
-2024-05-28_14:00_USD_CB Consumer Confidence
-2024-05-29_01:30_AUD_CPI y/y
-2024-05-30_12:30_USD_Prelim GDP q/q
-2024-05-30_14:00_USD_Pending Home Sales m/m
-2024-05-31_01:30_CNY_Manufacturing PMI
-2024-05-31_12:30_CAD_GDP m/m
-2024-06-03_13:45__
-2024-06-03_14:00__ISM Manufacturing PMI
-2024-06-04_14:00__
-2024-06-05_01:30__
-2024-06-05_06:30__CPI m/m
-2024-06-05_12:15__ADP Non-Farm Employment Change
-2024-06-05_13:45__BOC Rate Statement
-2024-06-05_14:00__ISM Services PMI
-2024-06-05_14:30__BOC Press Conference
-2024-06-06_12:15__Main Refinancing Rate
-2024-06-06_12:30__Unemployment Claims
-2024-06-06_12:45__ECB Press Conference
-2024-06-07_12:30__Employment Change
-2024-06-11_06:00__
-2024-06-12_06:00__
-2024-06-12_12:30__Core CPI m/m
-2024-06-12_18:00__Federal Funds Rate
-2024-06-12_18:30__FOMC Press Conference
-2024-06-13_01:30__
-2024-06-13_12:30__Core PPI m/m
-2024-06-14_14:00_Prelim UoM Consumer Sentiment
-2024-06-17_12:30__
-2024-06-18_4:30__
-2024-06-18_12:30__Core Retail Sales m/m
-2024-06-19_06:00__
-2024-06-19_22:45__GDP q/q
-2024-06-20_07:15__
-2024-06-20_07:30__SNB Monetary Policy Assessment
-2024-06-20_08:30__SNB Press Conference
-2024-06-20_11:00__Monetary Policy Summary
-2024-06-20_12:30__Unemployment Claims
-2024-06-21_06:00__
-2024-06-21_13:45__Flash Manufacturing PMI
-2024-06-25_12:30__
-2024-06-25_14:00__CB Consumer Confidence
-2024-06-26_1:30__
-2024-06-27_12:30_Unemployment Claims
-2024-06-27_14:00__Pending Home Sales m/m
-2024-06-28_01:30__
-2024-06-28_12:30__GDP m/m
-2024-06-28_14:00__Revised UoM Consumer Sentiment
-2024-06-28_12:30__Unemployment Claims
-2024-07-05_12:30__Unemployment Rate
-2024-07-11_06:00__
-2024-07-11_12:30__Core CPI m/m
-2024-07-12_12:30_PPI m/m
-2024-07-12_14:00__Prelim UoM Consumer Sentiment
-2024-07-18_01:30__Unemployment Rate
-2024-07-18_06:00__Claimant Count Change
-2024-07-18_12:15__Main Refinancing Rate
-2024-07-18_12:30__Unemployment Claims
-2024-07-18_12:45__ECB Press Conference
-2024-07-19_06:00__
-2024-07-24_13:45__Flash Services PMI
-2024-07-24_14:30__BOC Press Conference
-2024-07-25_12:30__Unemployment Claims
-2024-07-26_12:30__
-2024-07-26_14:00__Revised UoM Consumer Sentiment
-2024-08-01_11:00__Official Bank Rate
-2024-08-01_12:30__Unemployment Claims
-2024-08-01_13:45__Final Manufacturing PMI
-2024-08-01_14:00__ISM Manufacturing PMI
-2024-08-02_12:30__Unemployment Rate
-2024-06-03_13:45__
-2024-06-03_14:00__ISM Manufacturing PMI
-2024-06-04_14:00__
-2024-06-05_01:30__
-2024-06-05_6:30__CPI m/m
-2024-06-05_12:15__ADP Non-Farm Employment Change
-2024-06-05_13:45__BOC Rate Statement
-2024-06-05_14:00__ISM Services PMI
-2024-06-05_14:30__BOC Press Conference
-2024-06-06_12:15__Main Refinancing Rate
-2024-06-06_12:30__Unemployment Claims
-2024-06-06_12:45__ECB Press Conference
-2024-06-07_12:30__Employment Change
-2024-06-11_06:00__
-2024-06-12_06:00__
-2024-06-12_12:30__Core CPI m/m
-2024-06-12_18:00__Federal Funds Rate
-2024-06-12_18:30__FOMC Press Conference
-2024-06-13_01:30_Unemployment Rate
-2024-06-12_12:30__Core PPI m/m
-2024-06-14_14:00__Prelim UoM Consumer Sentiment
-2024-06-17_12:30__
-2024-06-18_04:30__RBA Rate Statement
-2024-06-18_12:30__Core Retail Sales m/m
-2024-06-19_06:00__
-2024-06-19_22:45__GDP q/q
-2024-06-20_07:15__French Flash Services PMI
-2024-06-20_07:30__German Flash Services PMI
-2024-06-20_08:30__SNB Press Conference
-2024-06-20_11:00__Monetary Policy Summary
-2024-06-20_12:30__Unemployment Claims
-2024-06-21_06:00__
-2024-06-21_13:45__Flash Manufacturing PMI
-2024-06-25_12:30_Median CPI y/y
-2024-06-25_14:00__CB Consumer Confidence
-2024-06-26_01:30__
-2024-06-27_12:30__Unemployment Claims
-2024-06-27_14:00__Pending Home Sales m/m
-2024-06-28_01:30__
-2024-06-28_12:30__GDP m/m
-2024-06-28_14:00__Revised UoM Consumer Sentiment
-2024-07-04_12:30__Unemployment Claims
-2024-07-05_12:30__Unemployment Rate
+2024-07-05_12:30_USD_Unemployment Rate
+2024-07-09_14:00_USD_Fed Chair Powell Testifies
+2024-07-10_02:00_NZD_Official Cash Rate
+2024-07-10_14:00_USD_Fed Chair Powell Testifies
+2024-07-11_06:00_GBP_GDP m/m
+2024-07-11_12:30_USD_Core CPI m/m
+2024-07-12_12:30_USD_Core PPI m/m
+2024-07-12_14:00_USD_Prelim UoM Consumer Sentiment
+2024-07-15_12:30_USD_Empire State Manufacturing Index
+2024-07-15_16:00_USD_Fed Chair Powell Speaks
+2024-07-16_12:30_USD_CPI m/m
+2024-07-16_22:45_NZD_CPI q/q
+2024-07-17_12:30_USD_CPI y/y
+2024-07-18_01:30_AUD_Unemployment Rate
+2024-07-18_06:00_GBP_Claimant Count Change
+2024-07-18_12:15_EUR_Main Refinancing Rate
+2024-07-18_12:30_USD_Unemployment Claims
+2024-07-18_12:45_EUR_ECB Press Conference
+2024-07-19_06:00_GBP_Retail Sales m/m
+2024-07-19_12:30_Core Retail Sales m/m
